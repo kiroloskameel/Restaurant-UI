@@ -1,0 +1,33 @@
+@media screen and (min-width: 768px){
+
+    .m-0{
+        width: 50%;
+    }
+    .m-33{
+        width: 33.33%;
+    }.m-25{
+        width: 25%;
+    }.m-20{
+        width: 20%;
+    }.m-16{
+        width: 16.6666%;
+    }
+
+}
+
+@media screen and (min-width: 1024px){
+
+.l-0{
+    width: 50%;
+}
+.l-33{
+    width: 33.33%;
+}.l-25{
+    width: 25%;
+}.l-20{
+    width: 20%;
+}.l-16{
+    width: 16.6666%;
+}
+}
+
